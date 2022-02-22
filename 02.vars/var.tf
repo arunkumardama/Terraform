@@ -9,3 +9,12 @@ variable "sample1" {
 variable "sample2" {
   default = true
 }
+
+variable "sample3" {
+  default = [
+       "hello world",
+        100,
+        true,
+        "world"
+]
+}
