@@ -11,7 +11,7 @@ output "sample2"{
 }
 
 output "list1"{
-  value=var.list[0]
+  value=var.list[1]
 }
 
 output "sample4"{
