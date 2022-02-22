@@ -3,9 +3,9 @@ output "sample"{
 }
 
 output "sample1"{
-  value=var.sample
+  value=var.sample1
 }
 
 output "sample2"{
-  value=var.sample
+  value=var.sample2
 }
