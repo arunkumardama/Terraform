@@ -1,3 +1,3 @@
 output "arunkumar"{
-  sample = "Hello World"
+  value = "Hello World"
 }
