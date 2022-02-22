@@ -1,3 +1,3 @@
-output "sample"{
+output "arunkumar"{
   value = "Hello World"
 }
