@@ -11,12 +11,7 @@ variable "sample2" {
 }
 
 variable "list" {
-  default = [
-       "hello world",
-        100,
-        true,
-        "world"
-]
+  default = ["hello world",100,true]
 }
 
 variable "sample4" {
