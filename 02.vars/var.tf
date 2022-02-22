@@ -10,7 +10,7 @@ variable "sample2" {
   default = true
 }
 
-variable "sample3" {
+variable "list" {
   default = [
        "hello world",
         100,

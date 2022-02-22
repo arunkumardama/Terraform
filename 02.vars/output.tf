@@ -10,8 +10,8 @@ output "sample2"{
   value=var.sample2
 }
 
-output "sample3"{
-  value=var.sample3
+output "list"{
+  value=var.list[0]
 }
 
 output "sample4"{
