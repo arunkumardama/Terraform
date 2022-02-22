@@ -18,3 +18,12 @@ variable "sample3" {
         "world"
 ]
 }
+
+variable "sample4" {
+  default = {
+    string  = "hello world",
+    number  = 100,
+    boolean = true,
+    string  = "world"
+  }
+}

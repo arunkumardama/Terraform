@@ -13,3 +13,7 @@ output "sample2"{
 output "sample3"{
   value=var.sample3
 }
+
+output "sample4"{
+  value=var.sample4
+}
