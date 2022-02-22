@@ -10,7 +10,7 @@ output "sample2"{
   value=var.sample2
 }
 
-output "list"{
+output "list1"{
   value=var.list[0]
 }
 
