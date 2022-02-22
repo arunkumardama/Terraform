@@ -14,4 +14,6 @@ output "list1"{
   value=var.list[1]
 }
 
-  sample4 = var.sample4
+output "sample4"{
+  value=var.sample4
+}
